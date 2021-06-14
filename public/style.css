@@ -1,0 +1,197 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    background-color: #262626;
+    color: #ABABAB;
+}
+
+#login-page {
+    background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+    background-image: url(damir-babacic-qbbWCscLQjY-unsplash.png);
+    color: white;
+    position: relative;
+}
+
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: rgba(255, 255, 255, 0.556);
+}
+
+#login-page .wrap {
+    /* position: fixed; */
+    /* top: 0; */
+    /* left: 0; */
+    /* right: 0; */
+    /* bottom: 0; */
+    /* background: linear-gradient(linear, left top, left bottom, rgba(0, 0, 0, 0.28) 0%, #000000 75.57%); */
+}
+
+.top-panel {
+    padding-top: 100px;
+    position: relative;
+    margin-bottom: 40vh;
+}
+
+.panel {
+    
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+
+.social {
+    margin-top: 180px;
+}
+.social a {
+    margin-right: 20px;
+}
+
+#sidebar {
+    background-color: #292929;
+    width: 500px;
+    padding: 50px;
+}
+
+#sidebar ul li {
+	margin-bottom: 2em;
+	position: relative;
+}
+
+#sidebar ul.menu li > a img {
+	margin: auto;
+    width: 100%;
+    padding: 20px;
+}
+#sidebar ul.menu li > a:hover img,
+#sidebar ul.menu li > a.active img{
+	/* filter: brightness(0) invert(1); */
+}
+#sidebar ul.menu li > a {
+	
+}
+
+#sidebar ul.menu li .sub {
+	
+}
+#sidebar ul.menu li .sub a{
+	display: block;
+}
+
+.nav-top {
+    padding: 90px 130px 60px;
+}
+
+.nav-bottom {
+    padding: 30px 130px 75px;
+}
+
+.form-control {
+    color: #ABABAB;
+    background-color: #292929;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+.btn {
+    font-weight: 300;
+}
+
+.btn-primary {
+    color: #292929;
+    background-color: #999999;
+    border-color: #999999;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 3px 10px 20px rgba(247, 247, 247, 0.05), -8px -4px 52px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+    text-transform: uppercase;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #828181;
+    border-color: #828181;
+}
+
+.btn-secondary {
+    background-color: #292929;
+    border-color: #292929;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+    text-transform: uppercase;
+}
+
+.v-card {
+    width: 275px;
+    height: 386px;
+    padding: 23px 24px;
+
+    background: #262626;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 25px 28px 46px rgba(247, 247, 247, 0.05), -8px -4px 52px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+
+    display: flex;
+    flex-direction: column;
+    border: 2px solid transparent;
+}
+
+.v-card h4 {
+    text-transform: uppercase;
+    font-size: 24px;
+    text-align: center;
+}
+
+.v-card p {
+    font-size: 13px;
+}
+
+.v-card hr {
+    border: 2px solid #ADADAD;
+    width: 100%;
+}
+
+.v-card:hover {
+    border: 2px solid #ADADAD;
+}
+
+.v-card .btn {
+    border-radius: 21px;
+
+    color: #5C5C5C;
+    background-color: #2A2A2A;
+    border-color: #2A2A2A;
+
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 21px;
+}
+
+.v-card > div {
+    padding: 15px 18px;
+}
+
+.v-card:hover .btn {
+    color: #292929;
+    background-color: #999999;
+    border-color: #999999;
+
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 3px 10px 20px rgba(247, 247, 247, 0.05), -8px -4px 52px rgba(0, 0, 0, 0.25);
+
+    content: 'lol';
+}
+
+.v-card:hover .btn span {
+    display: none;
+}
+
+.v-card:hover .btn:after {
+    content: 'Начинаем';
+}
+

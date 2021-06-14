@@ -1,0 +1,17 @@
+{
+    "name": "fw/fw",
+    "require": {
+        "monolog/monolog": "^1.23",
+        "phpmailer/phpmailer": "^5.2",
+        "vlucas/valitron": "^1.4",
+        "filp/whoops": "^2.7",
+        "php-ai/php-ml": "^0.9.0",
+        "monkeylearn/monkeylearn-php": "~0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "fw\\": "vendor/fw",
+            "app\\": "app"
+        }
+    }
+}

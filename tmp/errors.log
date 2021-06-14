@@ -1,0 +1,474 @@
+[2017-09-24 13:07:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2017-09-24 13:07:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2017-09-24 13:40:48] Текст ошибки: Undefined variable: _SESSION | Файл: D:\WebServer\domains\fw.loc\app\views\layouts\default.php, | Строка: 27
+==========================
+[2017-09-24 13:48:02] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login' | Файл: D:\WebServer\domains\fw.loc\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2017-09-24 14:06:12] Текст ошибки: Undefined property: fw\core\base\View::$prefix | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\base\View.php, | Строка: 44
+==========================
+[2017-09-24 14:57:12] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2017-09-24 14:57:12] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-03-24 12:14:37] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-03-24 12:14:37] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-03-24 13:11:30] Текст ошибки: Undefined variable: count | Файл: D:\WebServer\domains\fw.loc\app\views\Main\index.php, | Строка: 24
+==========================
+[2018-04-24 19:28:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:28:46] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:37:42] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:39:47] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:40:29] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:40:43] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:41:50] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:42:05] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:54:53] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:55:04] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-04-24 19:55:07] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-15 18:20:59] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-15 18:20:59] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 12:56:30] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 12:56:30] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:20:12] Текст ошибки: Class 'fw\core\language\Language' not found | Файл: D:\WebServer\domains\fw.loc\app\controllers\AppController.php, | Строка: 19
+==========================
+[2018-05-17 13:43:54] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:43:56] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:44:46] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:47:56] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:48:53] Текст ошибки: <p>Не найден вид <b>D:\WebServer\domains\fw.loc/app/views/Language/change.php</b></p> | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\base\View.php, | Строка: 73
+==========================
+[2018-05-17 13:52:12] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:52:18] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:52:21] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:52:37] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:52:39] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:52:43] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:52:46] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:53:07] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:53:20] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:53:35] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 13:53:37] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-17 14:16:07] Текст ошибки: Array to string conversion | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\base\Lang.php, | Строка: 13
+==========================
+[2018-05-19 16:41:04] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-19 16:41:07] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-19 16:52:05] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-19 16:52:24] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-19 16:52:41] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2018-05-19 16:52:41] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-21 13:07:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 13:37:55] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:25:31] Текст ошибки: Контроллер <b>app\controllers\admin\MainController</b> не найден | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 102
+==========================
+[2019-03-25 14:26:27] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getView() | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 95
+==========================
+[2019-03-25 14:32:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:32:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:32:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:32:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:32:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:32:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:32:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:32:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:32:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:32:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:32:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:21] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:21] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:21] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:21] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:21] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:21] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:22] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:22] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:22] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:22] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 14:46:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2019-03-25 15:05:39] Текст ошибки: Undefined index: password | Файл: D:\WebServer\domains\fw.loc\app\models\User.php, | Строка: 47
+==========================
+[2019-03-25 15:06:00] Текст ошибки: Undefined index: password | Файл: D:\WebServer\domains\fw.loc\app\models\User.php, | Строка: 47
+==========================
+[2019-03-25 15:10:10] Текст ошибки: Class 'R' not found | Файл: D:\WebServer\domains\fw.loc\app\controllers\admin\MainController.php, | Строка: 8
+==========================
+[2020-06-18 20:50:12] Текст ошибки: Could not connect to database (fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 20:50:40] Текст ошибки: Could not connect to database (fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 20:50:42] Текст ошибки: Could not connect to database (fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:51:44] Текст ошибки: Could not connect to database (fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:51:45] Текст ошибки: Could not connect to database (fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:51:46] Текст ошибки: Could not connect to database (fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:51:46] Текст ошибки: Could not connect to database (fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:52:04] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:52:05] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:52:06] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:52:21] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:52:22] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:52:22] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:52:23] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:52:23] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:52:24] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:53:01] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:53:32] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 21:53:33] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\OpenServer\domains\dstu.loc\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-06-18 22:05:44] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-06-18 22:06:24] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-06-18 22:06:25] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-06-18 22:06:25] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-06-18 22:06:26] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-06-18 22:06:26] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-06-18 22:06:26] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-06-18 22:17:28] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-06-18 22:17:29] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-06-18 22:17:47] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-06-18 22:17:48] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-06-18 22:17:48] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-06-18 22:17:49] Текст ошибки: compact(): Undefined variable: title | Файл: C:\OpenServer\domains\dstu.loc\app\controllers\MainController.php, | Строка: 31
+==========================
+[2020-12-03 11:57:27] Текст ошибки: Could not connect to database (sanchozzz_fw). | Файл: C:\laragon\www\gazprombank\vendor\fw\libs\rb.php, | Строка: 858
+==========================
+[2020-12-03 12:16:42] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sanchozzz_fw.languages' doesn't exist | Файл: C:\laragon\www\gazprombank\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2020-12-03 12:16:42] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sanchozzz_fw.languages' doesn't exist | Файл: C:\laragon\www\gazprombank\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2020-12-03 12:16:53] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sanchozzz_fw.user' doesn't exist | Файл: C:\laragon\www\gazprombank\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2020-12-03 12:16:53] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sanchozzz_fw.user' doesn't exist | Файл: C:\laragon\www\gazprombank\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2020-12-03 12:26:29] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sanchozzz_fw.languages' doesn't exist | Файл: C:\laragon\www\gazprombank\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2020-12-03 12:28:40] Текст ошибки: Undefined index: user | Файл: C:\laragon\www\gazprombank\app\controllers\MainController.php, | Строка: 28
+==========================
+[2020-12-03 12:28:41] Текст ошибки: Undefined index: user | Файл: C:\laragon\www\gazprombank\app\controllers\MainController.php, | Строка: 28
+==========================
+[2020-12-03 12:28:42] Текст ошибки: Undefined index: user | Файл: C:\laragon\www\gazprombank\app\controllers\MainController.php, | Строка: 28
+==========================
+[2020-12-03 12:28:45] Текст ошибки: Undefined index: user | Файл: C:\laragon\www\gazprombank\app\controllers\MainController.php, | Строка: 28
+==========================
+[2020-12-03 12:28:55] Текст ошибки: Undefined index: user | Файл: C:\laragon\www\gazprombank\app\controllers\MainController.php, | Строка: 28
+==========================
+[2020-12-03 12:42:44] Текст ошибки: syntax error, unexpected 'if' (T_IF) | Файл: C:\laragon\www\gazprombank\app\controllers\AppController.php, | Строка: 34
+==========================
+[2020-12-03 12:42:46] Текст ошибки: syntax error, unexpected 'if' (T_IF) | Файл: C:\laragon\www\gazprombank\app\controllers\AppController.php, | Строка: 34
+==========================
+[2020-12-03 12:44:26] Текст ошибки: Call to undefined function fw\core\dump() | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 58
+==========================
+[2020-12-03 12:44:27] Текст ошибки: Call to undefined function fw\core\dump() | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 58
+==========================
+[2020-12-03 12:45:21] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 89
+==========================
+[2020-12-03 12:45:59] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 89
+==========================
+[2020-12-03 12:54:00] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 12:54:01] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 12:54:08] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 12:54:09] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 12:54:31] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:00:51] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:00:59] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:01:11] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:01:34] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:47:31] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:49:22] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:49:27] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:49:34] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:49:56] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:50:00] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:52:05] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:52:09] Текст ошибки: compact(): Undefined variable: title | Файл: C:\laragon\www\gazprombank\app\controllers\MainController.php, | Строка: 32
+==========================
+[2020-12-03 13:53:06] Текст ошибки: compact(): Undefined variable: title | Файл: C:\laragon\www\gazprombank\app\controllers\MainController.php, | Строка: 44
+==========================
+[2020-12-03 13:53:06] Текст ошибки: compact(): Undefined variable: title | Файл: C:\laragon\www\gazprombank\app\controllers\MainController.php, | Строка: 44
+==========================
+[2020-12-03 13:53:07] Текст ошибки: compact(): Undefined variable: title | Файл: C:\laragon\www\gazprombank\app\controllers\MainController.php, | Строка: 44
+==========================
+[2020-12-03 13:53:31] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:53:38] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:53:40] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:53:43] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:53:50] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:53:52] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:53:54] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:53:56] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:54:06] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:54:09] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:54:11] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:54:12] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:54:12] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:54:14] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:54:14] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 13:54:27] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 14:39:44] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 19:34:12] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 19:34:13] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 19:34:47] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 19:34:47] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 19:34:48] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 19:34:48] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 19:34:48] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 19:34:48] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 19:34:49] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 19:34:49] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 19:35:14] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 19:35:15] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 19:35:58] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 19:35:58] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 19:35:59] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 19:35:59] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 19:36:16] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 19:36:17] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 19:36:21] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 19:36:21] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 19:36:37] Текст ошибки: Trying to access array offset on value of type null | Файл: C:\laragon\www\gazprombank\vendor\fw\core\base\Lang.php, | Строка: 13
+==========================
+[2020-12-03 19:36:38] Текст ошибки: Trying to access array offset on value of type null | Файл: C:\laragon\www\gazprombank\vendor\fw\core\base\Lang.php, | Строка: 13
+==========================
+[2020-12-03 19:37:18] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 19:37:18] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:10:25] Текст ошибки: Метод <b>app\controllers\TestsController::asdAction</b> не найден | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 98
+==========================
+[2020-12-03 20:10:26] Текст ошибки: Метод <b>app\controllers\TestsController::asdAction</b> не найден | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 98
+==========================
+[2020-12-03 20:10:32] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 20:10:32] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:15:39] Текст ошибки: Call to undefined function dump() | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 139
+==========================
+[2020-12-03 20:15:40] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:15:41] Текст ошибки: Call to undefined function dump() | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 139
+==========================
+[2020-12-03 20:15:41] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:22:38] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 20:22:39] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:22:40] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 20:22:40] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:23:02] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:23:10] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 20:23:10] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:23:46] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 20:23:46] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:23:48] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 20:23:48] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:25:44] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 20:25:44] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:25:45] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 20:25:45] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:25:59] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 20:25:59] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-12-03 20:26:34] Текст ошибки: Undefined variable: route | Файл: C:\laragon\www\gazprombank\app\views\layouts\hanty.php, | Строка: 141
+==========================
+[2020-12-03 20:26:34] Текст ошибки: Страница не найдена | Файл: C:\laragon\www\gazprombank\vendor\fw\core\Router.php, | Строка: 107
+==========================

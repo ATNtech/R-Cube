@@ -1,0 +1,231 @@
+<!DOCTIPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="raphael-min.js"></script>
+    <script type="text/javascript" src="russian-map.js"></script>
+    <script>
+
+        // запрос на получение json регионов
+        window.onload = function() {
+            fetch('./with-regions.json').then(function(response) {
+                response.json().then(function(data) {
+                    new RussianMap({
+                        viewPort: data.viewPort,
+                        mapId: 'russian-map',
+                        width: 1537,
+                        height: 844,
+                        // дефолтовые атрибуты для контуров регионов
+                        defaultAttr: {
+                            fill: '212121', // цвет которым закрашивать
+                            stroke: '2c2c2c', // цвет границы
+                            'stroke-width': 1, // ширина границы
+                            'stroke-linejoin': 'round' // скруглять углы
+                        },
+                        mouseMoveAttr: {
+                            fill: '0085FF'
+                        },
+                        onMouseMove: function(event) {
+                            var title = document.querySelector('#title');
+                            var empty = document.querySelector('.empty');
+                            console.log('mouse on ' + this.region.name + ' (ident: ' + this.region.ident + ')');
+                            title.classList.remove('green-marker', 'red-marker');
+                            empty.classList.remove('red-marker2');
+                            if (project.indexOf(this.region.ident) !== -1) {
+                                title.classList.add('green-marker');
+                                empty.classList.add('red-marker2');
+                            }
+                            if (tander.indexOf(this.region.ident) !== -1) {
+                                title.classList.add('red-marker');
+                            }                            
+                            title.textContent = this.region.name + ', ' + this.region.ident;
+                        },
+                        onMouseOut: function(event) {
+                            var title = document.querySelector('#title');
+                            var empty = document.querySelector('.empty');
+                            console.log('out on ' + this.region.name + ' (ident: ' + this.region.ident + ')');
+                            title.textContent = '';
+                            title.classList.remove('green-marker', 'red-marker');
+                            empty.classList.remove('red-marker2');
+                        },
+                        onMouseClick: function(event) {
+           //                 this.textContent+='123';
+         //
+         
+         //                   <text font-family="Verdana" font-size="42.5" fill="blue" >
+    //<textPath xlink:href="#MyPath">
+    //  We go up, then we go down, then up again
+//    </textPath>
+//  </text>
+                          
+                           // var popup = document.getElementById("myPopup");
+                        //     popup.textContent = this.region.name + 'УрГАХУ</br>СиНХ</br>УрГППУ</br>УрФУ</br>УГГУ';
+                         //         popup.classList.toggle("show");
+                            console.log('clicked on ' + this.region.name);
+                        }
+                    }, data.regions);
+                });
+            });
+        };
+    </script>
+</head>
+<body>
+<style>
+/* Popup container */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+/* The actual popup (appears on top) */
+.popup .popuptext {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+    .info {
+        display: flex;
+        width: 100%;
+    }
+    .title-block {
+        display: flex;
+        width: 40%;
+        justify-content: flex-end;        
+    }
+    #title {
+        opacity: .8;
+        padding-right: 50px;
+        display: inline;
+    }
+    .empty {
+        opacity: 1;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;        
+    }
+    .red-marker::before {
+        display: inline-block;
+        content: "";
+        margin-right: 5px;
+        margin-left: 5px;
+        width: 10px;
+        height: 10px;
+        background-color: #4abd73;
+        border-radius: 100%;
+        opacity: 1;
+    }
+
+    .red-marker2::before {
+        display: inline-block;
+        content: "";
+        margin-right: 0px;
+        margin-left: 5px;
+        width: 10px;
+        height: 10px;
+        background-color: #4abd73;
+        border-radius: 100%;
+        opacity: 1;
+        /* transform: translateY(45%); */
+    }
+
+    .green-marker::before {
+        display: inline-block;
+        content: "";
+        margin-right: 5px;
+        margin-left: 5px;
+        width: 10px;
+        height: 10px;
+        background-color: #FFD712;
+        border-radius: 100%;
+        opacity: 1;
+    }
+    .legend {
+        display: flex;
+        width: 60%;
+        justify-content: flex-start;
+    }
+    .block {
+        display: inline-block;
+        margin-right: 25px;        
+    }
+    .color-block {
+        display: inline-block;
+        width: 20px;
+        height: 13px;
+        
+    }    
+    .green {
+        background-color: #FFD712;
+    }
+    .red{
+        background-color: #4abd73;        
+    }
+    .block-title {
+        display: inline;
+        opacity: .75;
+    }
+</style>
+<div class="popup" onclick="">
+  <span class="popuptext" id="myPopup">Popup text...</span>
+</div>
+<div id="russian-map"></div>
+<div class="info">
+    <div class="title-block">
+        <div class="empty"></div>
+        <div id="title"></div>
+    </div>
+  <!--  <div class="legend">
+        <div class="block">
+            <div class="color-block green"></div>
+            <div class="block-title"> — регионы проекта</div>
+        </div>
+        <div class="block">
+            <div class="color-block red"></div>
+            <div class="block-title"> — регионы присутствия МагнитЭнерго</div>
+        </div>
+    </div>    -->    
+</div>
+
+
+</body>
+</html>

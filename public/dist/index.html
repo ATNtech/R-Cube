@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta
+            name="viewport"
+            content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"
+        />
+        <title>Map View Example</title>
+        <style>
+            body {
+                margin: 0;
+                overflow: hidden;
+            }
+
+            #map {
+                position: absolute;
+                border: 0px;
+                left: 0px;
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+                z-index: -1;
+            }
+
+            #copyrightNotice {
+                position: absolute;
+                right: 0;
+                bottom: 0;
+                background-color: #f0fef1;
+                z-index: 100;
+                padding: 2px 5px;
+                font-family: sans-serif;
+                font-size: 0.8em;
+                font-weight: normal;
+            }
+
+            #mouse-picked-result{
+                position:absolute;
+                bottom:5px;
+                border-radius: 5px;
+                margin-left:10px;
+                padding: 9px 12px;
+                background: #37af4b;
+                display: inline-block;
+                visibility: hidden;
+                text-align: left;
+                right:50px;
+
+                overflow-y: auto;
+                max-height: 320px;
+                max-width: 600px;
+                white-space: pre-wrap;
+            }
+            #mapCanvas {
+              top: 0;
+            }
+            #info{
+                color: #fff;
+                width: 80%;
+                left: 50%;
+                position: relative;
+                margin: 10px 0 0 -40%;
+                font-size: 15px;
+            }
+            #prompter{
+                margin: 10px;
+                padding: 10px;
+                display: inline-block;
+                background: #252c36;
+                color:#d2d7df;
+                position: absolute;
+                right: 0;
+            }
+            #asked-name{
+                text-transform: uppercase
+            }
+            @media screen and (max-width: 700px) {
+                #info{
+                    font-size:11px;
+                }
+            }
+            .dg.main.a {
+                width: 270px!important;
+            }
+            .dg .property-name {
+                width: 90%!important;
+            }
+            .dg .c { 
+                float: right!important;
+                width: 10%!important;
+            }
+            .dg.a {
+                margin-right: 65px!important;
+            }
+        </style>
+    <script defer src="mapview.bundle.js"></script></head>
+
+    <body>
+        <script src="three.min.js"></script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"></script>
+        <script src="https://unpkg.com/ml5@0.6.1/dist/ml5.min.js"></script><style type="text/css" data-glamor=""></style>
+
+        <canvas id="map"></canvas>
+        <pre id="mouse-picked-result"></pre>
+        <div style="display: none;">
+            <p id="prompter">Выбранный регион: <strong id="asked-name"></strong></p>
+        </div>
+        <div id="copyrightNotice"></div>
+    </body>
+</html>
